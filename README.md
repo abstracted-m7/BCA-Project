@@ -36,7 +36,7 @@
 
 The development plan of **GreenGrow Hub** followed this structured timeline based on the Gantt chart below:
 
-<img src="Gantt%20Chart%20Of%20GreenGrow%20Hub.png" alt="Gantt Chart" width="700"/>
+<img src="Gantt%20Chart%20Of%20GreenGrow%20Hub.png" alt="Gantt Chart" width="500"/>
 
 
 | Phase                   | Duration         | Description |
